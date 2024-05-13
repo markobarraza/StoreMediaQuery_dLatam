@@ -86,13 +86,14 @@ footer{
     margin: 0;
 }
 .main .contenedor_productos .contenedor_cards .main_card .info_card h3{
-    font-size: 1.2rem;
+    font-size: 1rem;
     font-weight: 700;
-    letter-spacing: 1px;
+    letter-spacing: .7px;
 }
 .main .contenedor_productos .contenedor_cards .main_card .info_card .inner_info{
     display: flex;
     justify-content: space-between;
+    margin: 10px 0 0 0 ;
 }
 .main .contenedor_productos .contenedor_cards .main_card .info_card .inner_info p{
     margin: 0;
